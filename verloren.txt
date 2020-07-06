@@ -1,0 +1,378 @@
+Nudeln: 1368 -- Verloren
+Klopapier: 144 -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln:  -- Verloren
+Bier: 22405 -- über Maximalpreis
+Klopapier: 102515 -- über Maximalpreis
+Bier:  -- Verloren
+Klopapier: 84703 -- über Maximalpreis
+Bier: 49028 -- über Maximalpreis
+Klopapier: 84703 -- über Maximalpreis
+Bier: 200010 -- über Maximalpreis
+Nudeln: 92606 -- über Maximalpreis
+Nudeln: 243 -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln: 196027 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 150175 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 58241 -- über Maximalpreis
+Bier: 50522 -- über Maximalpreis
+Nudeln: 30427 -- Verloren
+Bier:  -- Verloren
+Klopapier: 46781 -- über Maximalpreis
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier: 24775 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 12725 -- über Maximalpreis
+Bier: 17846 -- über Maximalpreis
+Bier: 36923 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 42984 -- über Maximalpreis
+Klopapier: 21281 -- über Maximalpreis
+Nudeln: 48311 -- über Maximalpreis
+Nudeln: 21579 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 18937 -- über Maximalpreis
+Nudeln: 21324 -- über Maximalpreis
+Bier: 22676 -- über Maximalpreis
+Klopapier: 28710 -- über Maximalpreis
+Nudeln: 32057 -- über Maximalpreis
+Nudeln: 3638 -- Verloren
+Klopapier: 20785 -- über Maximalpreis
+Nudeln: 20569 -- über Maximalpreis
+Klopapier: 27067 -- über Maximalpreis
+Nudeln: 10010 -- Verloren
+Bier: 10015 -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Klopapier: 0 -- Verloren
+Nudeln: 37561 -- über Maximalpreis
+Klopapier: 33694 -- über Maximalpreis
+Bier: 42607 -- über Maximalpreis
+Nudeln: 30873 -- über Maximalpreis
+Bier: 25939 -- über Maximalpreis
+Klopapier: 42226 -- über Maximalpreis
+Nudeln: 26926 -- über Maximalpreis
+Bier: 25533 -- über Maximalpreis
+Nudeln: 38328 -- über Maximalpreis
+Klopapier: 40672 -- über Maximalpreis
+Nudeln: 571399 -- über Maximalpreis
+Bier: 41050 -- über Maximalpreis
+Klopapier: 32542 -- über Maximalpreis
+Nudeln: 34282 -- über Maximalpreis
+Bier: 44815 -- über Maximalpreis
+Klopapier: 44818 -- über Maximalpreis
+Nudeln: 45773 -- über Maximalpreis
+Bier: 45427 -- über Maximalpreis
+Nudeln: 30237 -- über Maximalpreis
+Bier: 47887 -- über Maximalpreis
+Nudeln: 42065 -- über Maximalpreis
+Bier: 44539 -- über Maximalpreis
+Klopapier: 92751 -- über Maximalpreis
+Nudeln: 40559 -- über Maximalpreis
+Bier: 155155 -- über Maximalpreis
+Klopapier: 45731 -- über Maximalpreis
+Bier: 22821 -- über Maximalpreis
+Nudeln: 23030 -- über Maximalpreis
+Klopapier: 31440 -- über Maximalpreis
+Bier: 44087 -- über Maximalpreis
+Nudeln: 23395 -- über Maximalpreis
+Klopapier: 33403 -- über Maximalpreis
+Klopapier: 90676 -- über Maximalpreis
+Bier: 108826 -- über Maximalpreis
+Nudeln: 84288 -- über Maximalpreis
+Klopapier: 46962 -- über Maximalpreis
+Bier: 34480 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 38011 -- über Maximalpreis
+Bier: 18307 -- Verloren
+Klopapier: 44431 -- über Maximalpreis
+Klopapier: 30622 -- über Maximalpreis
+Nudeln: 99174 -- über Maximalpreis
+Klopapier:  -- Verloren
+Nudeln: 46148 -- über Maximalpreis
+Bier: 75031 -- über Maximalpreis
+Klopapier: 40666 -- über Maximalpreis
+Bier: 50000 -- über Maximalpreis
+Klopapier: 41780 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 45111 -- über Maximalpreis
+Bier: 45102 -- über Maximalpreis
+Nudeln: 40251 -- über Maximalpreis
+Nudeln: 41685 -- über Maximalpreis
+Bier: 45000 -- über Maximalpreis
+Nudeln: 240202 -- über Maximalpreis
+Klopapier: 22211 -- Verloren
+Bier: 40649 -- über Maximalpreis
+Klopapier: 42459 -- über Maximalpreis
+Bier: 29272 -- Verloren
+Nudeln: 30878 -- über Maximalpreis
+Klopapier: 39257 -- über Maximalpreis
+Bier: 45999 -- über Maximalpreis
+Nudeln: 41002 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 44048 -- über Maximalpreis
+Nudeln: 34062 -- über Maximalpreis
+Klopapier: 43460 -- über Maximalpreis
+Bier: 45999 -- über Maximalpreis
+Nudeln: 49150 -- über Maximalpreis
+Nudeln: 43250 -- über Maximalpreis
+Nudeln: 35575 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 47000 -- über Maximalpreis
+Klopapier: 71356 -- über Maximalpreis
+Nudeln: 45750 -- über Maximalpreis
+Klopapier: 40010 -- über Maximalpreis
+Nudeln: 42002 -- über Maximalpreis
+Nudeln: 41989 -- über Maximalpreis
+Bier: 30634 -- über Maximalpreis
+Bier: 32207 -- über Maximalpreis
+Nudeln: 35001 -- über Maximalpreis
+Klopapier: 27075 -- Verloren
+Bier:  -- Verloren
+Nudeln:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Klopapier: 34999 -- über Maximalpreis
+Nudeln: 40960 -- über Maximalpreis
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln: 30950 -- Verloren
+Bier: 35758 -- über Maximalpreis
+Klopapier: 28605 -- Verloren
+Klopapier: 30917 -- Verloren
+Bier:  -- Verloren
+Bier: 38118 -- über Maximalpreis
+Klopapier: 39479 -- über Maximalpreis
+Bier: 40140 -- über Maximalpreis
+Klopapier: 32894 -- Verloren
+Bier: 34649 -- über Maximalpreis
+Nudeln: 37385 -- über Maximalpreis
+Nudeln: 26221 -- Verloren
+Klopapier: 34126 -- über Maximalpreis
+Nudeln: 85200 -- über Maximalpreis
+Bier: 34724 -- über Maximalpreis
+Nudeln: 36343 -- über Maximalpreis
+Klopapier: 36760 -- über Maximalpreis
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln: 35780 -- über Maximalpreis
+Bier: 34388 -- über Maximalpreis
+Klopapier: 32021 -- Verloren
+Bier:  -- Verloren
+Nudeln: 23522 -- Verloren
+Nudeln: 31004 -- Verloren
+Bier:  -- Verloren
+Klopapier: 32008 -- Verloren
+Klopapier: 34722 -- über Maximalpreis
+Bier: 35225 -- über Maximalpreis
+Bier: 36499 -- über Maximalpreis
+Nudeln: 41131 -- über Maximalpreis
+Bier:  -- Verloren
+Klopapier: 30371 -- Verloren
+Klopapier: 35624 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 33017 -- über Maximalpreis
+Klopapier: 27778 -- Verloren
+Nudeln: 24463 -- Verloren
+Bier: 35249 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 38327 -- über Maximalpreis
+Klopapier: 33652 -- über Maximalpreis
+Bier:  -- Verloren
+Klopapier: 25116 -- Verloren
+Klopapier: 33221 -- über Maximalpreis
+Nudeln: 33258 -- über Maximalpreis
+Nudeln: 34001 -- über Maximalpreis
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln: 25032 -- Verloren
+Klopapier: 33179 -- über Maximalpreis
+Bier: 35631 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 38169 -- über Maximalpreis
+Klopapier: 37085 -- über Maximalpreis
+Nudeln: 35919 -- über Maximalpreis
+Bier: 35161 -- über Maximalpreis
+Klopapier:  -- Verloren
+Nudeln: 39246 -- über Maximalpreis
+Bier: 35837 -- über Maximalpreis
+Klopapier:  -- Verloren
+Bier:  -- Verloren
+Klopapier: 35874 -- über Maximalpreis
+Bier: 37297 -- über Maximalpreis
+Nudeln: 34308 -- über Maximalpreis
+Klopapier: 33401 -- über Maximalpreis
+Bier: 36927 -- über Maximalpreis
+Nudeln: 30845 -- über Maximalpreis
+Klopapier: 23727 -- Verloren
+Nudeln: 37194 -- über Maximalpreis
+Bier: 36947 -- über Maximalpreis
+Klopapier: 43994 -- über Maximalpreis
+Nudeln: 135309 -- über Maximalpreis
+Bier: 41396 -- über Maximalpreis
+Klopapier: 40442 -- über Maximalpreis
+Nudeln: 39283 -- über Maximalpreis
+Bier: 39473 -- über Maximalpreis
+Klopapier: 35484 -- über Maximalpreis
+Nudeln: 34520 -- über Maximalpreis
+Bier: 37516 -- über Maximalpreis
+Klopapier: 33827 -- über Maximalpreis
+Nudeln: 34535 -- über Maximalpreis
+Bier: 21302 -- Verloren
+Klopapier: 35490 -- über Maximalpreis
+Bier: 39516 -- über Maximalpreis
+Nudeln: 40593 -- über Maximalpreis
+Klopapier: 36108 -- über Maximalpreis
+Bier: 41812 -- über Maximalpreis
+Klopapier: 66300 -- über Maximalpreis
+Nudeln: 32491 -- über Maximalpreis
+Bier: 32202 -- über Maximalpreis
+Nudeln: 34660 -- über Maximalpreis
+Bier: 40076 -- über Maximalpreis
+Nudeln: 34776 -- über Maximalpreis
+Bier: 39466 -- über Maximalpreis
+Klopapier: 36346 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 24699 -- Verloren
+Klopapier: 34465 -- über Maximalpreis
+Bier: 38378 -- über Maximalpreis
+Nudeln: 30478 -- über Maximalpreis
+Klopapier: 40540 -- über Maximalpreis
+Bier: 39353 -- über Maximalpreis
+Nudeln: 34798 -- über Maximalpreis
+Klopapier: 35184 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 34813 -- über Maximalpreis
+Bier: 39581 -- über Maximalpreis
+Bier:  -- Verloren
+Bier:  -- Verloren
+Klopapier: 35379 -- über Maximalpreis
+Nudeln: 34836 -- über Maximalpreis
+Bier: 41547 -- über Maximalpreis
+Klopapier: 35479 -- über Maximalpreis
+Nudeln: 34985 -- über Maximalpreis
+Bier:  -- Verloren
+Klopapier:  -- Verloren
+Nudeln: 46011 -- über Maximalpreis
+Klopapier: 26205 -- Verloren
+Nudeln: 1000000 -- über Maximalpreis
+Bier: 250010 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 39699 -- über Maximalpreis
+Nudeln: 35765 -- über Maximalpreis
+Klopapier: 35452 -- über Maximalpreis
+Bier: 39827 -- über Maximalpreis
+Klopapier: 35458 -- über Maximalpreis
+Nudeln: 35605 -- über Maximalpreis
+Bier: 39721 -- über Maximalpreis
+Klopapier: 35945 -- über Maximalpreis
+Bier: 1000000 -- über Maximalpreis
+Nudeln: 35815 -- über Maximalpreis
+Klopapier: 35947 -- über Maximalpreis
+Bier: 40007 -- über Maximalpreis
+Nudeln: 14795 -- Verloren
+Bier: 39905 -- über Maximalpreis
+Klopapier: 8522 -- Verloren
+Nudeln: 23560 -- Verloren
+Bier: 42055 -- über Maximalpreis
+Klopapier: 32545 -- über Maximalpreis
+Nudeln: 33166 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 55010 -- über Maximalpreis
+Bier: 80020 -- über Maximalpreis
+Bier: 110001 -- über Maximalpreis
+Bier: 120001 -- über Maximalpreis
+Nudeln: 32014 -- Verloren
+Bier: 42512 -- über Maximalpreis
+Klopapier: 37459 -- über Maximalpreis
+Nudeln:  -- Verloren
+Nudeln:  -- Verloren
+Bier:  -- Verloren
+Bier: 50003 -- über Maximalpreis
+Nudeln: 50000 -- über Maximalpreis
+Bier: 10325 -- Verloren
+Bier:  -- Verloren
+Klopapier: 32013 -- Verloren
+Klopapier: 32014 -- Verloren
+Klopapier: 32014 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32141 -- Verloren
+Klopapier: 32142 -- Verloren
+Klopapier: 32269 -- Verloren
+Klopapier: 32769 -- Verloren
+Klopapier: 32769 -- Verloren
+Klopapier: 32770 -- Verloren
+Bier:  -- Verloren
+Klopapier:  -- über Maximalpreis
+Bier: 5413 -- über Maximalpreis
+Bier:  -- Verloren
+Klopapier: 36027 -- Verloren
+Bier: 5722 -- Verloren
+Bier:  -- Verloren
+Klopapier: 4544 -- Verloren
+Klopapier: 2827 -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln: 1000000 -- über Maximalpreis
+Klopapier: 4936 -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Klopapier: 19096 -- Verloren
+Nudeln: 19578 -- Verloren
+Bier:  -- Verloren
+Bier: 62014 -- über Maximalpreis
+Nudeln: 1000000 -- über Maximalpreis
+Bier: 1000000 -- über Maximalpreis
+Nudeln: 643049 -- über Maximalpreis
+Bier:  -- Verloren
+Bier: 76790 -- über Maximalpreis
+Bier:  -- Verloren
+Bier:  -- Verloren
+Bier:  -- Verloren
+Nudeln: 398013 -- über Maximalpreis
+Klopapier: 69350 -- über Maximalpreis
+Bier: 288026 -- über Maximalpreis
+Nudeln: 23972 -- Verloren
+Klopapier: 46030 -- über Maximalpreis
+Klopapier: 233020 -- über Maximalpreis
+Klopapier: 62169 -- über Maximalpreis
+Bier: 179304 -- über Maximalpreis
+Nudeln: 103002 -- über Maximalpreis
+Klopapier: 41003 -- über Maximalpreis
+Bier: 60682 -- über Maximalpreis
+Klopapier: 9474 -- Verloren
+Nudeln: 54996 -- über Maximalpreis
+Klopapier:  -- Verloren
+Bier: 68983 -- über Maximalpreis
+Bier: 51188 -- über Maximalpreis
+Bier:  -- Verloren
+Nudeln: 50324 -- über Maximalpreis
+Klopapier: 38868 -- über Maximalpreis
+Klopapier: 40656 -- über Maximalpreis
+Nudeln: 52338 -- über Maximalpreis
+Bier: 801921 -- über Maximalpreis
+Nudeln: 135205 -- über Maximalpreis
+Nudeln: 51794 -- über Maximalpreis
+Bier: 51190 -- über Maximalpreis
